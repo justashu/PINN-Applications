@@ -1,2 +1,2 @@
 # PINN Applications
-I used the PINN model, an application of Machine learning, to solve this equation
+This repository conatins the several applications of the PINN which is a method to solve the differential equations.
